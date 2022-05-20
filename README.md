@@ -1,5 +1,5 @@
-👋 Hi, I’m David
-🌱 I’m currently student at Purdue University
+- 👋 Hi, I’m David
+- 🌱 I’m currently student at Purdue University
 <a href="https://github.com/spaceComplexitys/spaceComplexity-stats">
 <img src="https://raw.githubusercontent.com/spaceComplexitys/spaceComplexity-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 <img src="https://raw.githubusercontent.com/spaceComplexitys/spaceComplexity-stats/master/generated/languages.svg#gh-dark-mode-only"/>
